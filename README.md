@@ -1,1 +1,2 @@
 # resume
+my detailed resume 
